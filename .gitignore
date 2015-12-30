@@ -1,4 +1,9 @@
 target/
+.settings/
+api/.project
+api/.classpath
+rar/.project
+rar/.classpath
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
